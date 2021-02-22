@@ -1,4 +1,4 @@
-This is an experiment I made using only [termux](https://termux.com/) on my mobile phone.
+This is an experiment I made using only [Termux](https://termux.com/) on my mobile phone.
 
 I've installed Termux, and using it I installed PHP and Git.
 
